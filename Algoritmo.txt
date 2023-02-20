@@ -1,0 +1,32 @@
+# Proyecto Final
+
+## Algoritmo del Programa
+
+### Pasos
+
+1. abrir el programa
+1. ingresar el nombre de la persona que pide cotizacion
+1. ingresar la edad del asegurado
+    1. dependiendo de la edad agregar recargo a precio base este porcentaje varia dependiendo en el rango acordado por edad. 
+    1. si el asegurado no es mayor de edad no aplica a cotizacion.
+1. ingresar estado civil
+    1. si esta soltero seguir a la siguiente pregunta
+    2. si esta casado pedir edad de conyuge
+        1. dependiendo de la edad agregar recargo a precio base este porcentaje varia dependiendo en el rango acordado por edad. 
+        1. sumar este recargo al recargo anterior
+1. ingresar si tiene hijos
+    1. si no tiene hijos seguir a la siguiente pregunta.
+    2. si tiene hijos ingresar la cantidad de hijos
+        1. agregar recargo de 20% del precio base por hijo
+        1. sumar este recargo al total del recargo anterior
+1. ingresar cantidad de propiedades que tiene
+    1. si tiene propiedades agregar recargo del 35% de precio base por propiedad
+    1. sumar este recargo al total del recargo anterior 
+1. ingresar salario
+    1. agregar recargo de 5% del salario total
+    1. sumar este recargo al total del recargo anterior
+1. Alertar el nombre del solicitante
+1. Alertar total de recargos
+    1. esto ya esta sumado
+1. sumar recargo total ya sumado a precio base (2000)
+1. Alertar precio total

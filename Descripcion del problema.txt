@@ -1,0 +1,6 @@
+# Proyecto Final
+
+## Descripcion del Problema
+
+
+la aseguradora TK-U recibe cientos de solicitudes de cotizaciones al dia pidiendo costos para nuevos clientes. actualmente todo es manual entonces es un proceso que demora mucho tiempo y limita al personal a solo 50 cotizaciones al dia. esto causa una perdida de de ganacias a la empresa ya que no logran proveer las cotizaciones a todos de una manera eficiente. aparte causa un retraso ya que diariamente hay mas de 50 cotizaciones pedidas entonces causa un atraso. al realizar una calculadora de cotizaciones este ya no seria un problema ya que la calculadora dejaria que el solicitante llene la informacion requirida manualmente y no estaria dependiendo que un empleado le provea la informacion requirida. si el solicitante no fuera elegible por su edad la calculadora le podria informar inmediatamente y no tendria que estar en espera por varios dias para ser negado. la calculadora incrementaria las ganancias de la empresa al poder generar una cantidad de clientes nuevos mas rapido y dejar que sus empleados se enfoquen en otra cosas mas especificas. 
